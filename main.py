@@ -1,7 +1,7 @@
 
-def test_one():
+def test_second():
     print('test')
-    print('one')
+    print('second')
 
 
-test_one()
+test_second()
